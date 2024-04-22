@@ -1,4 +1,4 @@
-### Hi there, I'm [Your Name]! 👋
+### Hi there, I'm Syed Farhan! 👋
 
 🌱 About Me
 - 🎓 Final-year IT student passionate about technology.
