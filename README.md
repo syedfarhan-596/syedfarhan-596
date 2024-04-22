@@ -1,30 +1,26 @@
 ### Hi there, I'm [Your Name]! 👋
 
-#### 🌱 About Me
+🌱 About Me
 - 🎓 Final-year IT student passionate about technology.
 - 💻 Currently diving deep into the MERN stack.
 - 🚀 Always eager to learn and collaborate on exciting projects.
 
-#### 🔭 I’m currently working on
-- [Project Name 1](link): Description
-- [Project Name 2](link): Description
+🔭 I’m currently working on
+  -Code For Digital India: A platform facilitating interaction between users and administrators for completing digital initiatives tasks, leading to certificates issuance for outstanding 
+   performance.
+  -Data-Store: An e-commerce platform designed for buying and selling data, providing a seamless experience for users and sellers to manage their data transactions efficiently.
 
-#### 🌱 I’m currently learning
-- [Technology/Tool 1]: Description
-- [Technology/Tool 2]: Code For Digital India 
+🌱 I’m currently learning
+- Mern stack: A full-stack JavaScript framework comprised of MongoDB, Express.js, React.js, and Node.js. It provides a comprehensive solution for building modern web applications, with 
+  MongoDB for the database, Express.js for the backend framework, React.js for the frontend library, and Node.js for the server runtime.
 
-#### 👯 I’m looking to collaborate on
-- Open-source projects related to [your interests].
 
-#### 💬 Ask me about
-- Anything tech-related, especially MERN stack development.
 
-#### 📫 How to reach me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/syedfarhan596/)
-- Email: [Your Email Address](mailto:syedfarhan@gmail.com)
+📫 How to reach me
+- LinkedIn: [syedfarhan596](https://www.linkedin.com/in/syedfarhan596/)
+- Email: [syedfarhan596](mailto:syedfarhan@gmail.com)
 
-#### ⚡ Fun fact
-- Fun fact about yourself or something interesting you've learned recently.
 
-#### 📊 GitHub Stats
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+
+📊 GitHub Stats
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=syedfarhan-596&show_icons=true&theme=radical)](https://github.com/syedfarhan-596)
