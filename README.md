@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi there, I'm [Your Name]! 👋
 
-<!--
-**syedfarhan-596/syedfarhan-596** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🌱 About Me
+- 🎓 Final-year IT student passionate about technology.
+- 💻 Currently diving deep into the MERN stack.
+- 🚀 Always eager to learn and collaborate on exciting projects.
 
-Here are some ideas to get you started:
+#### 🔭 I’m currently working on
+- [Project Name 1](link): Description
+- [Project Name 2](link): Description
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌱 I’m currently learning
+- [Technology/Tool 1]: Description
+- [Technology/Tool 2]: Code For Digital India 
+
+#### 👯 I’m looking to collaborate on
+- Open-source projects related to [your interests].
+
+#### 💬 Ask me about
+- Anything tech-related, especially MERN stack development.
+
+#### 📫 How to reach me
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/syedfarhan596/)
+- Email: [Your Email Address](mailto:syedfarhan@gmail.com)
+
+#### ⚡ Fun fact
+- Fun fact about yourself or something interesting you've learned recently.
+
+#### 📊 GitHub Stats
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
