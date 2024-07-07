@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **syedfarhan596@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1p3lzQ8QUa-0E-lKLgpA4LlvUyuELSJeF/view?usp=sharing](https://drive.google.com/file/d/1p3lzQ8QUa-0E-lKLgpA4LlvUyuELSJeF/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1OY87ly8rJjWr85wkVMzckWdmyqAWUoDq/view?usp=sharing]([https://drive.google.com/file/d/1OY87ly8rJjWr85wkVMzckWdmyqAWUoDq/view?usp=sharing](https://drive.google.com/file/d/1OY87ly8rJjWr85wkVMzckWdmyqAWUoDq/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
