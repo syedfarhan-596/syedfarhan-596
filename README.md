@@ -2,11 +2,9 @@
 
 <p align="left"> <a href="https://twitter.com/syedfarhan596" target="blank"><img src="https://img.shields.io/twitter/follow/syedfarhan596?logo=twitter&style=for-the-badge" alt="syedfarhan596" /></a> </p>
 
-- 🔭 I’m currently working on **Code For Digital India**
+- 🔭 I’m currently working on **Data-Store**
 
 - 🌱 I’m currently learning **Mern**
-
-- 👯 I’m looking to collaborate on **Data-Store**
 
 - 👨‍💻 All of my projects are available at [https://syedfarhan596.netlify.app/](https://syedfarhan596.netlify.app/)
 
